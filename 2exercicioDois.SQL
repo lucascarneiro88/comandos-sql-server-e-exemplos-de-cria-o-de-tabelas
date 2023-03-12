@@ -1,0 +1,5 @@
+CREATE TABLE Lucas(
+    Id INT NOT NULL,
+    Idade INT NOT NULL UNIQUE,
+    Cidade VARCHAR(MAX)NULL
+);
